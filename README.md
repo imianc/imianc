@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats -->
 
-### Hi, I'm Xoru!
+### Hi, I'm Ian!
 
 💻 [Web Developer](https://xoru.lol/) & [Roblox Programmer](https://xoru.lol/code) focused on backend systems<br>
 🧠 Specializing in efficient API design, data handling, and scalable game infrastructure<br>
