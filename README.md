@@ -9,7 +9,7 @@
 📈 Always improving my workflow and sharing progress through projects and collaborations<br>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Xoru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imianc&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+![Ian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imianc&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
 
 ## 🌐 Socials:
